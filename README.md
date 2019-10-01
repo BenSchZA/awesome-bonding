@@ -20,4 +20,4 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## License
 
-See [LICENSE](LICENSE)
+No rights reserved.
