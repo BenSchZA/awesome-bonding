@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Contracts:
 * **commons-stack/genesis-contracts:** https://github.com/commons-stack/genesis-contracts/tree/master/contracts/bondingcurve
+* **dap-ps/discover:** https://github.com/dap-ps/discover/tree/master/contracts
 * **dOrgTech/BC-DAO:** https://github.com/dOrgTech/BC-DAO/tree/master/contracts/BondingCurve
 * **linumlabs/molecule-alpha:** https://gitlab.com/linumlabs/molecule-alpha/tree/nightly/Blockchain/contracts
 * **ProteaNetwork/protea-gather:** https://github.com/ProteaNetwork/protea-gather/tree/master/Blockchain/contracts
