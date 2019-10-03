@@ -21,6 +21,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Articles / Discussions:
 
+* **Deep Dive: Augmented Bonding Curves:** https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751
 * **More price functions for Token-Bonding Curves:** https://hackernoon.com/more-price-functions-for-token-bonding-curves-d42b325ca14b
 * **How to Make Bonding Curves for Continuous Token Models:** https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17
 * **Bonding Curves Explained – Yos Riady · Software Craftsman:** https://yos.io/2018/11/10/bonding-curves/
