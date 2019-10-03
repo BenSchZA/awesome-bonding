@@ -18,6 +18,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **dOrgTech/BC-DAO:** https://github.com/dOrgTech/BC-DAO/tree/master/contracts/BondingCurve
 * **linumlabs/molecule-alpha:** https://gitlab.com/linumlabs/molecule-alpha/tree/nightly/Blockchain/contracts
 * **ProteaNetwork/protea-gather:** https://github.com/ProteaNetwork/protea-gather/tree/master/Blockchain/contracts
+* **runtimeverification/verified-smart-contracts:** https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf
 
 ### Articles / Discussions:
 
