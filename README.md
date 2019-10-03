@@ -8,6 +8,12 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## The List
 
+### Simulations
+* **Augmented TBC simulation:** https://commons-stack.github.io/augmented-tbc-design/
+* **Bonding Playground:** 
+  * https://bondingplayground.netlify.com/ 
+  * https://gitlab.com/linumlabs/bonding-curve-playground
+
 ### Theory / cadCAD Models:
 * **BlockScience/conviction:** https://github.com/BlockScience/conviction/blob/master/bonding_curve_eq.py
 * **linumlabs/molecule-system-modelling:** https://gitlab.com/linumlabs/molecule-system-modelling/blob/master/jupyter-lab-environment/workspace/molecule-alpha.ipynb
