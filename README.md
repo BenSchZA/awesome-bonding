@@ -13,6 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **Bonding Playground:** 
   * https://bondingplayground.netlify.com/ 
   * https://gitlab.com/linumlabs/bonding-curve-playground
+* **Taxation of Sigmoidal Token Bonding Curves:** https://sigmoid-tbc-app.herokuapp.com/
 
 ### Theory / cadCAD Models:
 * **BlockScience/conviction:** https://github.com/BlockScience/conviction/blob/master/bonding_curve_eq.py
