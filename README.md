@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * https://bondingplayground.netlify.com/ 
   * https://gitlab.com/linumlabs/bonding-curve-playground
 * **Taxation of Sigmoidal Token Bonding Curves:** https://sigmoid-tbc-app.herokuapp.com/
+* **Modelling the precision of fixed point integer arithmetic:** https://gitlab.com/linumlabs/molecule-system-modelling/blob/master/jupyter-lab-environment/workspace/uint256-precision.ipynb
 
 ### Theory / cadCAD Models:
 * **BlockScience/conviction:** https://github.com/BlockScience/conviction/blob/master/bonding_curve_eq.py
