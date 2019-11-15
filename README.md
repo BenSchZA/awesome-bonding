@@ -27,6 +27,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **linumlabs/molecule-alpha:** https://gitlab.com/linumlabs/molecule-alpha/tree/nightly/Blockchain/contracts
 * **ProteaNetwork/protea-gather:** https://github.com/ProteaNetwork/protea-gather/tree/master/Blockchain/contracts
 * **runtimeverification/verified-smart-contracts:** https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf
+* **bancorprotocol/contracts_eos (in C++):** https://github.com/bancorprotocol/contracts_eos/blob/master/contracts/eos/MultiConverter/MultiConverter.cpp
 
 ### Articles / Discussions:
 
