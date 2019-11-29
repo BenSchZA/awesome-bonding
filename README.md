@@ -50,7 +50,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **Tokens with plans to use Fundraising**
   * [Aragon Chain](https://blog.aragon.one/aragon-chain/)
   * [Aragon Court](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263) 
-* **[Fundraising Documentation](https://fundraising.aragon.black/) **
+* **[Fundraising Documentation](https://fundraising.aragon.black/)**
 * **[Pre-Workshop Mechanism design brief](https://docs.google.com/document/d/1qK5z_Jm0zNhdEFL_uXj7BkhJCEV_-hlUqiawHZBbMZY/edit)**
 * **With MIT Media Lab Automated Autonomous Legal Entities Working Group:**
   * [Publishing DAO Scenario Hacking](https://hackmd.io/AVy2rUZeRWKf285W61aftw?view)
