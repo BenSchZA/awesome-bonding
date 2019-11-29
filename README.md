@@ -43,18 +43,18 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Resources on Aragon's Fundraising App
 
-* **[Fundraising Rinkeby release](https://nightly-rinkeby.aragon.org/#/paxmongolia/0xb74add727d52d0c361d56de38824a8b14112c9c4)**
-* **[Fundraising Github Repository](https://github.com/AragonBlack/fundraising)**
-* **[Introduction to Fundraising](https://blog.aragon.org/introducing-aragon-fundraising/)**
-* **[Aragon Fundraising and ANT value by Luke Duncan](https://observablehq.com/@lkngtn/ant-and-aragon-fundraising)** 
+* **Fundraising Rinkeby release:** https://nightly-rinkeby.aragon.org/#/paxmongolia/0xb74add727d52d0c361d56de38824a8b14112c9c4
+* **Fundraising Github Repository:** https://github.com/AragonBlack/fundraising
+* **Introduction to Fundraising:** https://blog.aragon.org/introducing-aragon-fundraising/
+* **Aragon Fundraising and ANT value by Luke Duncan:** https://observablehq.com/@lkngtn/ant-and-aragon-fundraising
 * **Tokens with plans to use Fundraising**
-  * [Aragon Chain](https://blog.aragon.one/aragon-chain/)
-  * [Aragon Court](https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263) 
-* **[Fundraising Documentation](https://fundraising.aragon.black/)**
-* **[Pre-Workshop Mechanism design brief](https://docs.google.com/document/d/1qK5z_Jm0zNhdEFL_uXj7BkhJCEV_-hlUqiawHZBbMZY/edit)**
+  * Aragon Chain: https://blog.aragon.one/aragon-chain/
+  * Aragon Court: https://forum.aragon.org/t/aragon-network-launch-phases-and-target-dates/1263
+* **Fundraising Documentation:** https://fundraising.aragon.black/
+* **Pre-Workshop Mechanism design brief:** https://docs.google.com/document/d/1qK5z_Jm0zNhdEFL_uXj7BkhJCEV_-hlUqiawHZBbMZY/edit
 * **With MIT Media Lab Automated Autonomous Legal Entities Working Group:**
-  * [Publishing DAO Scenario Hacking](https://hackmd.io/AVy2rUZeRWKf285W61aftw?view)
-  * [DAO Legal Scenario Hacking](https://hackmd.io/7JZ6BpNMT5i1goVmKOoamQ?both)
+  * Publishing DAO Scenario Hacking: https://hackmd.io/AVy2rUZeRWKf285W61aftw?view
+  * DAO Legal Scenario Hacking: https://hackmd.io/7JZ6BpNMT5i1goVmKOoamQ?both
 
 
 ## License
