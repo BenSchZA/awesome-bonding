@@ -28,6 +28,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **ProteaNetwork/protea-gather:** https://github.com/ProteaNetwork/protea-gather/tree/master/Blockchain/contracts
 * **runtimeverification/verified-smart-contracts:** https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf
 * **bancorprotocol/contracts_eos (in C++):** https://github.com/bancorprotocol/contracts_eos/blob/master/contracts/eos/MultiConverter/MultiConverter.cpp
+* **Fairmint/c-org:** https://github.com/Fairmint/c-org
 
 ### Articles / Discussions:
 
@@ -40,6 +41,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **Bonding Curves In Depth: Intuition & Parametrization:** https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a
 * **On bonding curves and charitable giving:** https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2
 * **Token Bonding Curves | Coder's Errand:** http://coders-errand.com/token_bonding_curves/
+* **Continuous Organizations Whitepaper - Thibauld Favre** https://github.com/C-ORG/whitepaper
 
 ### Resources on Aragon's Fundraising App
 
