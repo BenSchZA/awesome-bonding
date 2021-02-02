@@ -8,6 +8,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## The List
 
+### Presentations
+* **Intro to Bonding Curves**: https://tokenengineeringcommunity.github.io/intro-to-bonding-curves
+
 ### Simulations
 * **Augmented TBC simulation:** https://commons-stack.github.io/augmented-tbc-design/
 * **Bonding Playground:** 
