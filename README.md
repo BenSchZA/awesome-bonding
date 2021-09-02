@@ -45,6 +45,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * **On bonding curves and charitable giving:** https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2
 * **Token Bonding Curves | Coder's Errand:** http://coders-errand.com/token_bonding_curves/
 * **Continuous Organizations Whitepaper - Thibauld Favre** https://github.com/C-ORG/whitepaper
+* **Re-Fungible Token (RFT)** https://billyrennekamp.medium.com/re-fungible-token-rft-297003592769
 
 ### Resources on Aragon's Fundraising App
 
